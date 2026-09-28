@@ -1,0 +1,6 @@
+{
+  "name": "Android Studio",
+  "description": "Environnement de développement Android complet et 100% hors-ligne avec éditeur de code, compilation Java/Kotlin, émulateur sandbox et export APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

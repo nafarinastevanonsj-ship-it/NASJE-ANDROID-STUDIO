@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Studio</string>
+    <string name="run_app">Exécuter l\'application</string>
+    <string name="build_apk">Compiler l\'APK</string>
+    <string name="sync_project">Synchroniser Gradle</string>
+    <string name="terminal">Terminal</string>
+    <string name="logcat">Logcat</string>
+    <string name="build_output">Sortie de compilation</string>
+    <string name="problems">Problèmes</string>
+    <string name="emulator_sandbox">Émulateur Virtuel</string>
+</resources>
